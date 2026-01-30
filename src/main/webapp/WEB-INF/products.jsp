@@ -235,7 +235,7 @@
 
     <body>
         <div class="container">
-            <jsp:include page="/header.jsp"/>
+            <jsp:include page="/WEB-INF/header.jsp" />
             <div class="categories">
                 <a href="products"
                    class="category-item ${empty param.categoryId ? 'active' : ''}">
@@ -321,7 +321,7 @@
                     📱 Liên hệ Facebook
                 </a>
             </div>
-            <jsp:include page="/footer.jsp"/>
+            <jsp:include page="/WEB-INF/footer.jsp" />
         </div>
     </body>
 </html>
