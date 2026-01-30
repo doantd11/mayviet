@@ -255,9 +255,6 @@
                 <p>Đan truyền thống, Kết hiện đại</p>
             </div>
 
-<h3>DEBUG products = ${products}</h3>
-<h3>DEBUG size = ${products.size()}</h3>
-
             <c:choose>
                 <c:when test="${not empty products}">
                     <div class="products-grid">
