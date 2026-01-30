@@ -106,9 +106,4 @@
         <a href="#">Tin tức</a>
         <a href="#">Liên hệ</a>
     </nav>
-
-    <div class="header-right">
-        <a href="${pageContext.request.contextPath}/register" class="btn-signup">User1</a>
-        <a href="${pageContext.request.contextPath}/register" class="btn-signup">Sign out</a>
-    </div>
 </header>
