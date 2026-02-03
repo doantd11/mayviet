@@ -9,5 +9,4 @@
         <url-pattern>/images/*</url-pattern>
     </servlet-mapping>
 
-
 </web-app>
