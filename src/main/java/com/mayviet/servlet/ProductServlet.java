@@ -25,7 +25,7 @@ public class ProductServlet extends HttpServlet {
         
         List<Product> products = productDAO.getAllProducts();
         request.setAttribute("products", products);
-        request.getRequestDispatcher("/products.jsp").forward(request, response);
+        request.getRequestDispatcher("/WEB-INF/products.jsp").forward(request, response);
     }
     
     @Override

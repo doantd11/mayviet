@@ -29,7 +29,7 @@ public class ProductDetailServlet extends HttpServlet {
             
             if (product != null) {
                 request.setAttribute("product", product);
-                request.getRequestDispatcher("/product-detail.jsp").forward(request, response);
+                request.getRequestDispatcher("/WEB-INF/product-detail.jsp").forward(request, response);
             } else {
                 response.sendRedirect("products");
             }

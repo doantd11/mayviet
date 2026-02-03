@@ -61,7 +61,7 @@
 </style>
 
 <footer class="site-footer">
-    <h3>🧺 Mây Tre Việt</h3>
+    <h3>🧺 Mây Việt</h3>
     <div class="footer-divider"></div>
 
     <p>
