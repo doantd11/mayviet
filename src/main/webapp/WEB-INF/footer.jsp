@@ -79,6 +79,6 @@
     </div>
 
     <div class="copyright">
-        © 2026 Mây Tre Việt. All rights reserved.
+        © 2026 Mây Việt. All rights reserved.
     </div>
 </footer>
