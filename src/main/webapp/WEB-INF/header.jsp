@@ -96,7 +96,7 @@
 
 <header class="site-header">
     <a href="${pageContext.request.contextPath}/products" class="logo">
-         Mây Tre Shop
+         Mây Việt
     </a>
 
     <nav class="nav">
